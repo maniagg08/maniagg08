@@ -1,5 +1,3 @@
-<p align = "center"> <img src = "https://github.com/kshitijaggarwal1/kshitijaggarwal1/blob/main/Banner.gif" alt = "Kshitij's Github Banner" width = "1280px"> </p>
-</br>
 <p> 
 Hey there! 👋 </br></br>
 👉 I'm Mani, a passionate Software Engineer, creative coder, and dancer who is always ready to learn and explore the ocean of technologies. </br>
@@ -42,16 +40,6 @@ Hey there! 👋 </br></br>
   - Hackerrank  : [maniaggarwal08](https://www.hackerrank.com/maniaggarwal08)
   - StopStalk   : [maniagg08](https://www.stopstalk.com/user/profile/maniagg08)
  
-- Development profiles:
-<a href="https://github.com/kshitijaggarwal1">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijaggarwal1&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/kshitijaggarwal1">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kshitijaggarwal1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Kshitij's GitHub Stats" />
-</a>
-
-
-<br><br>
 
 ## 🌎 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-aggarwal08/) &nbsp;
